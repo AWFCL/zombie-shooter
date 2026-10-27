@@ -1,0 +1,4 @@
+# 本地存档 / 临时文件
+zombie_best.json
+*.log
+.DS_Store
